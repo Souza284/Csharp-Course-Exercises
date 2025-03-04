@@ -1,4 +1,4 @@
-﻿// Exercise01- Temperature converter
+﻿// Exercise01 - Temperature converter
 
 GetTemperature();
 
